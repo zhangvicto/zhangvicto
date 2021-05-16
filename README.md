@@ -1,13 +1,13 @@
-## About :open_book:
+## :open_book: About 
 > I am a student at Western University studying Mechatronic Systems Engineering and business. Feel free to learn more about me on my personal website at [vick.xyz](vicks.xyz).
 
-## Socials :man_scientist:
+## :man_scientist: Socials
 <p align="center"><a href="https://www.linkedin.com/in/victor-zhang-9a1510146/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30px"></a>
 <a href="https://www.youtube.com/channel/UC0qFt4fHDVnYkEakdtTabBQ"><img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" width="30px"></a>
 <a href="mailto:vzhang24@uwo.ca"><img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" width="30px"></a>
 </p>
 
-## Languages & Tools :alien:
+## :man_technologist: Languages & Tools
 <p align="center"><a><img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" alt="C++" width="30px"/></a>
 <a><img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="HTML5" width="30px"/></a>
 <a><img src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" alt="HTML5" width="30px"/></a>
@@ -18,5 +18,5 @@
 <a><img src="https://camo.githubusercontent.com/266382312222509d3ee960dae2bc240f90b99fe7d0824ff15ed3a9e583b283a7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f61646f62652e737667" alt="Adobe Suite" width="30px"/></a>
 </p>
 
-## Hobbies :juggling_person:
+## :juggling_person: Hobbies
 r/Bitcoin, r/Multicopter, r/Minecraft, r/Dogecoin, r/Investing, r/3Dprinting, r/Mechanicalkeyboard
