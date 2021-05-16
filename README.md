@@ -19,4 +19,4 @@
 </p>
 
 ## Hobbies :juggling_person:
-> r/Bitcoin, r/Multicopter, r/Minecraft, r/Dogecoin, r/Investing, r/3Dprinting, r/Mechanicalkeyboard
+r/Bitcoin, r/Multicopter, r/Minecraft, r/Dogecoin, r/Investing, r/3Dprinting, r/Mechanicalkeyboard
