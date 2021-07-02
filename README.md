@@ -18,5 +18,5 @@
 <a><img src="./img/adobe.svg" alt="Adobe Suite" width="30px"/></a>
 </p>
 
-## :juggling_person: Hobbies
+## :juggling_person: Interests
 r/Bitcoin, r/Multicopter, r/Minecraft, r/Dogecoin, r/Investing, r/3Dprinting, r/Mechanicalkeyboard
