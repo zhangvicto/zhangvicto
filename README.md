@@ -1,5 +1,5 @@
 ## :open_book: About 
-> I am a student at Western University studying Mechatronic Systems Engineering and business. Feel free to learn more about me on my personal website at [vick.xyz](vicks.xyz).
+> I am a student at Western University studying Mechatronic Systems Engineering and Honors Business Administration. Feel free to learn more about me on my personal website at [vick.xyz](vicks.xyz).
 
 ## :man_scientist: Socials
 <p align="center"><a href="https://www.linkedin.com/in/victor-zhang-9a1510146/"><img src="./img/linkedin.svg" width="30px"></a>
