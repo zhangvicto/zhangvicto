@@ -8,7 +8,7 @@ I am a student at Western University studying Mechatronic Systems Engineering an
 </p>
 
 ## :man_technologist: Languages & Tools
-<p align="center>
+<p align="center">
 <a href="https://github.com/zhangvicto?tab=repositories"><img alt="Code" src="https://camo.githubusercontent.com/e19c005063e41bc120ae3459d1a041611e1ffd87b0fdc678db6cf7ba8af40fdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f64652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d506c6578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-code-000000?style=flat-square&amp;logo=Plex&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://github.com/zhangvicto?tab=repositories&amp;language=javascript"><img alt="Javascript" src="https://camo.githubusercontent.com/248da69a5e0f8073e78b3b482fbe33be999fbf81d9dff4bb5e3f1311fe1636ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d6631653035613f7374796c653d666c61742d737175617265266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&amp;logo=Javascript&amp;logoColor=white" style="max-width:100%;"></a>
       <a href="https://github.com/zhangvicto?tab=repositories&amp;language=python"><img alt="Python" src="https://camo.githubusercontent.com/9333f04904b91b0aa091bd01973cd64ca89fa2e42cdf2f2e6d074b8dc774ef00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3335373241353f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width:100%;"></a>
