@@ -17,4 +17,4 @@ I am a student at Western University studying Mechatronic Systems Engineering an
 </p>
 
 ## :juggling_person: Interests
-r/Bitcoin, r/Multicopter, r/Minecraft, r/Dogecoin, r/Investing, r/3Dprinting, r/Mechanicalkeyboard
+r/Robotics, r/Multicopter, r/Minecraft, r/Investing, r/3Dprinting, r/Mechanicalkeyboard, 
